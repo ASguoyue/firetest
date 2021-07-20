@@ -3,7 +3,7 @@ import operator
 import os
 from PIL import Image
 import numpy as np
-##111
+##11111111
 
 def binaryzation(data):
     row = data.shape[1]
